@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 880C-EE44
+
+ Directory of C:\Learning\gitlearn\myproject
+
+25-08-2021  10:00    <DIR>          .
+25-08-2021  10:00    <DIR>          ..
+25-08-2021  10:00                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  917,858,127,872 bytes free
